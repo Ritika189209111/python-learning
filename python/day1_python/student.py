@@ -1,0 +1,10 @@
+name = str(input("My name is "))
+age = int(input("My age is "))
+age1 = age+1
+branch = str(input(" My branch is "))
+current_sem = int(input(" I am currently in sem "))
+print("Hello, My name is ",name)
+print("I'm ", age, "years old.")
+print("I study ", branch)
+print("I'm currently in semester ", current_sem)
+print("Next year, I will be ", age1, "years old.")

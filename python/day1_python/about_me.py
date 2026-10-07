@@ -1,0 +1,6 @@
+name = str(input("What is your name?"))
+age = int(input("What is your age?"))
+branch = str(input("What is you branch?"))
+print("Hello", name)
+print(age)
+print(branch)
